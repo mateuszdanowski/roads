@@ -1,0 +1,30 @@
+/**
+@mainpage Dokumentacja zadania drogi
+
+### Treść zadania
+
+Uwaga: aktualna treść zadania znajduje się w [Moodle'u](https://moodle.mimuw.edu.pl).
+
+### Opis programu
+
+Tegoroczne duże zadanie polega na zaimplementowaniu operacji na mapach drogowych.
+
+Program tworzy odcinki dróg pomiędzy miastami, z wartościami długość oraz rok budowy.
+
+Program tworzy drogi krajowe na odcinkach dróg.
+
+Program usuwa odcinki dróg oraz drogi krajowe.
+
+Program rozszerza istniejące drogi krajowe.
+
+Program wypisuje opisy istniejących dróg krajowych.
+
+Program ignoruje puste linie i komentarze (linie zaczynające się znakiem #).
+
+Jeśli polecenie jest niepoprawne składniowo lub jego wykonanie zakończyło się błędem,
+czyli odpowiednia funkcja zakończyła się wynikiem false lub NULL,
+to wypisuje na standardowe wyjście diagnostyczne jednoliniowy komunikat ERROR n,
+gdzie n jest numerem linii w danych wejściowych zawierającym to polecenie.
+Linie numerujemy od jedynki i uwzględniamy ignorowane linie.
+
+*/
